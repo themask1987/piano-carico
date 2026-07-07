@@ -1,5 +1,7 @@
 # Piano di carico
 
+**[Scarica l'ultima versione](https://github.com/themask1987/piano-carico/raw/main/piano-carico.zip)** (zip protetto da password, fornita separatamente dal team)
+
 App per la gestione dello staffing su file Excel (Plan de charge / FusionData). Nessuna installazione, nessun server: si apre un file HTML nel browser.
 
 ## Cosa fa
