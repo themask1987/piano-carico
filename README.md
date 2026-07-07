@@ -9,9 +9,6 @@ App per la gestione dello staffing su file Excel (Plan de charge / FusionData). 
 **Richieste** — elenco e stato delle richieste di staffing
 ![Richieste](screenshots/richieste.png)
 
-**Richieste, dettaglio rich/conf** — giorni richiesti vs già confermati per settimana
-![Dettaglio](screenshots/richieste-dettaglio.png)
-
 ## Installazione
 
 1. Scarica l'ultima versione: [piano-carico.zip](https://github.com/themask1987/piano-carico/raw/main/piano-carico.zip)
