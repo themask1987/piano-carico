@@ -24,7 +24,7 @@ App per la gestione dello staffing su file Excel (Plan de charge / FusionData). 
 
 ## Installazione
 
-1. Scarica l'ultima release dalla sezione **Releases** di questo repo (file `piano-carico-protected.zip`)
+1. Scarica l'ultima versione: [piano-carico.zip](https://github.com/themask1987/piano-carico/raw/main/piano-carico.zip)
 2. Estrai lo zip (richiede una password, fornita separatamente dal team)
 3. Apri `index.html` in Chrome o Edge
 
