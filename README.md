@@ -1,6 +1,6 @@
 # Piano di carico
 
-**[Scarica l'ultima versione](https://github.com/themask1987/piano-carico/raw/main/piano-carico.zip)** (zip protetto da password, fornita separatamente dal team)
+**[Scarica l'ultima versione](https://github.com/themask1987/piano-carico/raw/canale-stabile/CDS-Manager-1.12.4-20261110152320.zip)** (zip protetto da password, fornita separatamente dal team)
 
 App per la gestione dello staffing su file Excel (Plan de charge / FusionData). Nessuna installazione, nessun server: si apre un file HTML nel browser.
 
@@ -11,9 +11,9 @@ App per la gestione dello staffing su file Excel (Plan de charge / FusionData). 
 
 ## Installazione
 
-1. Scarica l'ultima versione: [piano-carico.zip](https://github.com/themask1987/piano-carico/raw/main/piano-carico.zip)
+1. Scarica l'ultima versione: [piano-carico.zip](https://github.com/themask1987/piano-carico/raw/canale-stabile/CDS-Manager-1.12.4-20261110152320.zip)
 2. Estrai lo zip (richiede una password, fornita separatamente dal team)
-3. Apri `index.html` in Chrome o Edge
+3. Apri `CDS Manager.exe` (da qui in poi si aggiorna da solo)
 
 ## Requisiti
 
