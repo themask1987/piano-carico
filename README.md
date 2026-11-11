@@ -1,25 +1,9 @@
-# Piano di carico
+# Tools
 
-**[Scarica l'ultima versione](https://github.com/themask1987/piano-carico/raw/canale-stabile/CDS-Manager-1.12.4-20261110152320.zip)** (zip protetto da password, fornita separatamente dal team)
+Canale di distribuzione dei tool di Andrea. Ogni tool ha due rami, gestiti dagli script di rilascio (non modificarli a mano):
 
-App per la gestione dello staffing su file Excel (Plan de charge / FusionData). Nessuna installazione, nessun server: si apre un file HTML nel browser.
+| Tool | Stabile | Test |
+|---|---|---|
+| CDS Manager | [cds-stabile](https://github.com/themask1987/tools/tree/cds-stabile) | [cds-test](https://github.com/themask1987/tools/tree/cds-test) |
 
-## Screenshot
-
-**Richieste** — elenco e stato delle richieste di staffing
-![Richieste](screenshots/richieste.png)
-
-## Installazione
-
-1. Scarica l'ultima versione: [piano-carico.zip](https://github.com/themask1987/piano-carico/raw/canale-stabile/CDS-Manager-1.12.4-20261110152320.zip)
-2. Estrai lo zip (richiede una password, fornita separatamente dal team)
-3. Apri `CDS Manager.exe` (da qui in poi si aggiorna da solo)
-
-## Requisiti
-
-- Chrome o Edge (per la condivisione `.bak` tra colleghi serve la File System Access API)
-- Un file `.xlsm`/`.xlsx` compatibile con la struttura Plan de charge / FusionData
-
-## Aggiornamenti
-
-L'app controlla automaticamente all'avvio se è disponibile una versione più recente e mostra un banner con link diretto al download.
+Ogni ramo contiene uno zip protetto da password (fornita separatamente) e un `manifest.json` firmato: le app si aggiornano da sole e installano solo aggiornamenti con firma valida.
