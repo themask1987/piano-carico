@@ -1,0 +1,4 @@
+Forecast Grouping Tool 1.0.18 (canale test, 2026-11-12T16:37:14Z)
+Questo ramo e' gestito dagli script di rilascio: non modificarlo a mano.
+Forecast-Grouping-Tool-1.0.18-20261112163714.zip contiene Forecast Grouping Tool/Forecast Grouping Tool.exe (zip con la password del team).
+manifest.json e' firmato: l'app installa solo aggiornamenti con firma valida.
