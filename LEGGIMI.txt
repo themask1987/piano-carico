@@ -1,0 +1,4 @@
+CDS Manager 1.12.9 (canale test, 2026-11-13T08:05:09Z)
+Questo ramo e' gestito dagli script di rilascio: non modificarlo a mano.
+CDS-Manager-1.12.9-20261113080509.zip contiene CDS Manager/CDS Manager.exe (zip con la password del team).
+manifest.json e' firmato: l'app installa solo aggiornamenti con firma valida.
